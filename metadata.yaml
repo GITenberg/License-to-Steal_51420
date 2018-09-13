@@ -1,0 +1,39 @@
+_repo: License-to-Steal_51420
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  author:
+    agent_name: Newman, Louis
+    alias: Newmann, Louis
+    gutenberg_agent_id: '46404'
+    url: http://www.gutenberg.org/2009/agents/46404
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Legal stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Theft -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: License to Steal
+url: http://www.gutenberg.org/ebooks/51420
